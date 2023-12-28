@@ -1,1 +1,1 @@
-console.log("hello")
+var pair = "bht khataranak"
