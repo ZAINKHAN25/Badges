@@ -1,0 +1,1 @@
+var pair = "bht khataranak"
